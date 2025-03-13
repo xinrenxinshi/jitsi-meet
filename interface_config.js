@@ -26,7 +26,7 @@ var interfaceConfig = {
 
     CLOSE_PAGE_GUEST_HINT: false, // A html text to be shown to guests on the close page, false disables it
 
-    DEFAULT_BACKGROUND: '#040404',
+    DEAULT_BACKGROUND: '#040404',
     DEFAULT_WELCOME_PAGE_LOGO_URL: 'https://static.xinrenxinshi.com/image/xrxs-logo.png',
 
     DISABLE_DOMINANT_SPEAKER_INDICATOR: false,
@@ -55,7 +55,7 @@ var interfaceConfig = {
      */
     DISABLE_VIDEO_BACKGROUND: false,
 
-    DISPLAY_WELCOME_FOOTER: true,
+    DISPLAY_WELCOME_FOOTER: false,
     DISPLAY_WELCOME_PAGE_ADDITIONAL_CARD: false,
     DISPLAY_WELCOME_PAGE_CONTENT: false,
     DISPLAY_WELCOME_PAGE_TOOLBAR_ADDITIONAL_CONTENT: false,
