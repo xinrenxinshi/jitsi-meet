@@ -1814,7 +1814,7 @@ var config = {
     // },
 
     // Application logo url
-    // defaultLogoUrl: 'images/watermark.svg',
+    defaultLogoUrl: 'https://static.xinrenxinshi.com/image/xrxs-logo.png',
 
     // Settings for the Excalidraw whiteboard integration.
     // whiteboard: {
